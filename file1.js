@@ -1,1 +1,3 @@
-console.log(42);
+<script>
+ console.log(42);
+</script>
